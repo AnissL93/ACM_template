@@ -6,7 +6,7 @@
 
 ![commands](cmd.png)
 
-- Original template in latex_template.zip, which is downloaded from https://www.asplos-conference.org/wp-content/uploads/2024/01/asplos25-templates.zip
+- Original template in latex_template.zip, which can be downloaded from https://www.acm.org/publications/proceedings-template
 - Local compile: make
 - Overleaf: uncomment this line of code in main.tex to generate submission version while using overleaf
 
